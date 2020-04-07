@@ -5,6 +5,8 @@
  *  Created on: Oct 15, 2019
  *      Author: andy
  */
+// Copyright © 2015 Infrared5, Inc. All rights reserved.
+//
 //  The accompanying code comprising examples for use solely in conjunction with Red5 Pro (the "Example Code") 
 //  is  licensed  to  you  by  Infrared5  Inc.  in  consideration  of  your  agreement  to  the  following  
 //  license terms  and  conditions.  Access,  use,  modification,  or  redistribution  of  the  accompanying  
