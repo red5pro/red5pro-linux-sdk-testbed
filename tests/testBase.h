@@ -23,8 +23,8 @@
 #ifndef TEST_BASE
 #define TEST_BASE
 
-#include "../librprosdk/include/cJSON.h"
-#include "../librprosdk/include/r5pro_api.h"
+#include "../librprosdk/cJSON.h"
+#include "../librprosdk/r5pro_api.h"
 #include <stdio.h>
 #include "Publish/PublishTest.h"
 #include "PublishSharedObject/PublishSharedObjectTest.h"

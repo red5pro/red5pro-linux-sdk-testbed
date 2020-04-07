@@ -23,8 +23,8 @@
 #ifndef SHARED_OBJECT_TEST_H
 #define SHARED_OBJECT_TEST_H
 
-#include "../../librprosdk/include/cJSON.h"
-#include "../../librprosdk/include/r5pro_api.h"
+#include "../../librprosdk/cJSON.h"
+#include "../../librprosdk/r5pro_api.h"
 
 int start_publish_shared_object_test (libfuncs r5Pointer, cJSON* settings);
 

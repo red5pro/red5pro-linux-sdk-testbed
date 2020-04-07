@@ -1,5 +1,5 @@
 {
-  "r5sdk_path": "librprosdk/lib/amd64/libr5prosdk-0.0.1.b4-release.so",
+  "r5sdk_path": "librprosdk/lib/amd64/librprosdk-0.0.1.b5-release.so",
   "GlobalProperties":{
     "host":"10.0.0.111",
     "video_device": 0,

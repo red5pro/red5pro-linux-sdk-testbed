@@ -23,8 +23,8 @@
 #ifndef PUBLISH_TEST_H
 #define PUBLISH_TEST_H
 
-#include "../../librprosdk/include/cJSON.h"
-#include "../../librprosdk/include/r5pro_api.h"
+#include "../../librprosdk/cJSON.h"
+#include "../../librprosdk/r5pro_api.h"
 
 int start_simple_publish (r5session* session);
 int start_publish_test (libfuncs r5Pointer, cJSON* settings);

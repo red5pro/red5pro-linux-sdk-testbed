@@ -28,7 +28,7 @@
 
 #define SO_PATH "./librprosdk/libr5pro.so"
 
-int main (char** args, int count) {
+int main (int count, char **args) {
     //load settings
     FILE* file = fopen("tests.json", "r");
     if (!file) {
