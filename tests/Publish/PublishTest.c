@@ -21,7 +21,7 @@
 //  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #include "../testBase.h"
-#include "../../librprosdk/include/device.h"
+#include "../../librprosdk/device.h"
 
 int start_simple_publish (r5session* session) {
 
