@@ -1,0 +1,26 @@
+{
+  "r5sdk_path": "librprosdk/lib/amd64/librprosdk-0.0.1.b5-release.so",
+  "GlobalProperties":{
+    "host":"10.0.0.111",
+    "video_device": 0,
+    "width": 640,
+    "height": 480,
+    "video_bitrate": 750,
+    "fps": 30,
+    "sample_rate": 16000,
+    "context": "live",
+    "stream1": "stream1"
+  },
+  "Tests":[
+    {
+      "name":"Publish",
+      "Description":"A basic example of publishing a stream",
+      "LocalProperties":{}
+    },
+    {
+      "name":"Publish - Shared Object",
+      "Description":"A publisher with an attatched shared object",
+      "LocalProperties":{}
+    }
+  ]
+}
