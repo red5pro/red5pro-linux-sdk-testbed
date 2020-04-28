@@ -2,7 +2,6 @@
 //  global.h
 //  Red5Pro
 //
-//  Created by Andy Zupko on 9/15/14.
 //  Copyright © 2015 Infrared5, Inc. All rights reserved.
 //
 //  The accompanying code comprising examples for use solely in conjunction with Red5 Pro (the "Example Code") 

@@ -163,7 +163,7 @@ After generating the [compiled testbed](#building) and updating the [configurati
 This will start a command line prompt from which you can select which test to run:
 
 ```sh
-Pulling red5pro from directory: librprosdk/lib/amd64/librprosdk-0.0.1.b5-release.so
+Pulling red5pro from directory: librprosdk/lib/amd64/librprosdk-0.1.0.b7-release.so
 Red5Pro SDK version 6.0.0
 1) Publish : A basic example of publishing a stream
 2) Publish - Shared Object : A publisher with an attatched shared object
