@@ -9,6 +9,8 @@
   <a href="#examples">examples</a>
 </p>
 
+> **NOTE:** The Red5 Pro Linux SDK is currently in **BETA**.
+
 # Red5 Pro Linux Testbed
 
 This repository contains examples used in testing Red5 Pro Linux SDK. [https://www.red5pro.com](https://www.red5pro.com)
